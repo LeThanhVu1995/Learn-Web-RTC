@@ -1,0 +1,12 @@
+{
+  "name": "Learn-Web-RTC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LeThanhVu1995/Learn-Web-RTC.git",
+  "author": "LeThanhVu1995 <lethanhvu20015@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
